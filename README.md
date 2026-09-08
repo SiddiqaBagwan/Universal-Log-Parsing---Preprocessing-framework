@@ -1,6 +1,6 @@
-\# LogNexus
+\# **LogNexus**
 
-\## Universal Log Pre-processing Framework
+\## **Universal Log Pre-processing Framework**
 
 
 
