@@ -2,8 +2,6 @@
 
 \## **Universal Log Pre-processing Framework**
 
-
-
 \*\*SIH Problem Statement:\*\* SIH26156  
 
 \*\*Team:\*\* **Origin**
