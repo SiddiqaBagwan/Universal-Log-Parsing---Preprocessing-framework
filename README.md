@@ -15,7 +15,6 @@ LogNexus is a centralized log pre-processing framework designed to process heter
 \### Key Features
 
 
-
 \- Log ingestion from configured sources
 
 \- Automatic log format detection
