@@ -7,9 +7,7 @@
 \*\*Team:\*\* **Origin**
 
 
-
 LogNexus is a centralized log pre-processing framework designed to process heterogeneous logs from different sources and formats.
-
 
 
 \### Key Features
